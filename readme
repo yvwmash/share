@@ -1,0 +1,3 @@
+# require ubuntu
+
+sudo apt install nodejs npm
