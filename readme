@@ -1,3 +1,6 @@
+# A simplest nodejs server bound to Postgres database.
+# A datasheet of some car models used to showcase SQL input prompt for filtering.
+
 # require ubuntu
 
 sudo apt install nodejs npm
