@@ -1,5 +1,6 @@
 # A simplest nodejs server bound to Postgres database.
 # A datasheet of some car models used to showcase SQL input prompt for filtering.
+# Simple form of authentification showcased in the video.
 
 # require ubuntu
 
